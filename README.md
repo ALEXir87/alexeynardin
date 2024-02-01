@@ -1,4 +1,4 @@
-#  Junior QA Engineer!
+![Header](https://github.com/ALEXir87/alexeynardin/blob/main/assets/logo.png)
 
 ## Обо мне
 
