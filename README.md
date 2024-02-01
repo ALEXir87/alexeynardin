@@ -73,9 +73,10 @@
 ---
 
 ## Контактная информация
-- Email: [![Mail Badge]
-(https://)]
-(mailto:nardin_alexey@mail.ru)
-- Телеграм: https://t.me/nardinalex
+<br>
 
+- Email : [![Email Badge](https://img.shields.io/badge/-nardin_alexey@mail.ru-8A2BE2)](mailto:nardin_alexey@mail.ru)
+
+- Telegram : [![Telegram:](https://img.shields.io/badge/-nardinalex-8A2BE2)](https://t.me/nardinalex)
+ 
 ---
