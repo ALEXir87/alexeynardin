@@ -49,7 +49,6 @@
 
 > <a href="https://docs.google.com/spreadsheets/d/1iiNSSrUFHIhoFmbuy5F5DTxo7RVnIsJX-1--rxB4uuE/edit?usp=sharing">Ссылка на проект №2</a>
 
-
 <p>Итоги:<p> 
 
 * Составил 9 тест-кейсов
@@ -68,7 +67,6 @@
 > <a href="https://docs.google.com/spreadsheets/d/1FqUNT86g0eO4A26bHNsVvXhIKly7EPlZWnvxNiKb_dY/edit?usp=sharing">Ссылка на проект №3</a>
 
 > <a href="https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html">Ссылка на сайт</a>
-
 
 <p>Итоги:<p> 
 
@@ -109,6 +107,26 @@
 * Составил 16 тест-условий
 * 7 тест-условий позволяет взять кредит заёмщику
 * 9 тест-условий не позволяет взять кредит заёмщику
+
+<br>
+
+<p> Проект №6: Страница оплаты товара</p>
+
+<p>Задание:<p>
+<ol>
+  <li>Визуально отобразить требования для их эффективного структурирования</li>
+</ol>
+
+> <a href="https://drive.google.com/file/d/1MXHuTf3961xhA28air2BYyWMTv_oodYh/view?usp=sharing">Ссылка на проект №6</a>
+
+> <a href="https://test-stand.gb.ru/seminar_stands/payform/index.html">Ссылка на сайт</a>
+
+> <a href="https://docs.google.com/document/d/1w_yhOU8x9miePJRXe2e-sbAFC0Vy67jsv_e49kBVoEI/edit">Ссылка на требования</a>
+
+<p>Итоги:<p> 
+
+* Визуально отобразил требования путём составления карты "mind mapping"
+
 ---
 
 ## Контактная информация
