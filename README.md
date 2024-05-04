@@ -12,7 +12,7 @@
 ---
 
 ## Навыки и технологии
-``Qase.io``, ``Jira``, ``DevTools``, ``Git``, ``GitHub``, ``SQL``, <br> 
+``Qase.io``, ``Jira``, ``DevTools``, ``Git``, ``GitHub``, ``MySQL/phpMyAdmin``, <br> 
  ``Google Sheets/Docs``, ``Mindmup``, ``Figma``, ``HTML``, ``CSS``, ``С#``.
 
 ---
